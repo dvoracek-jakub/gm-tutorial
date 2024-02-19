@@ -37,6 +37,7 @@
     {"id":{"name":"DrawDBG","path":"objects/DrawDBG/DrawDBG.yy",},},
     {"id":{"name":"Ghost","path":"objects/Ghost/Ghost.yy",},},
     {"id":{"name":"fnt_Arial","path":"fonts/fnt_Arial/fnt_Arial.yy",},},
+    {"id":{"name":"Movement","path":"scripts/Movement/Movement.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},

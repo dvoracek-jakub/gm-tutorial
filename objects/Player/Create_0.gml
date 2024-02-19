@@ -6,6 +6,7 @@ PLAYER_SPEED = 4;
 PLAYER_DOING_MOVE = false;
 Player.previousX = x;
 Player.previousY = y;
+global.cellWidth = 64;
 speed = 0;
 direction = 0;
 

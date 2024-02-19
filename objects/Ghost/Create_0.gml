@@ -4,15 +4,12 @@
 
 GHOST_SPEED = 1;
 speed = GHOST_SPEED;
-direction = 0;
 
-move_contact_solid(direction ,5);
+Ghost.previousX = x;
+Ghost.previousY = y;
 
-
-
-
-
-
+avoid = getAvoidOppositeDirectionArray(0);
+direction = ghostRandomPath(avoid);	
 
 
 
